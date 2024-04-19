@@ -7,3 +7,6 @@
 [submodule "RPI-Pico-SSD"]
 	path = RPI-Pico-SSD
 	url = https://github.com/stevenhernandezz/RPI-Pico-SSD
+[submodule "RPI-Pico-Interrupt-Simulation"]
+	path = RPI-Pico-Interrupt-Simulation
+	url = https://github.com/stevenhernandezz/RPI-Pico-Interrupt-Simulation
