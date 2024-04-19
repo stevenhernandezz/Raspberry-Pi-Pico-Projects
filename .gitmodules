@@ -4,3 +4,6 @@
 [submodule "RPI-Pico-Interfacing-LCD"]
 	path = RPI-Pico-Interfacing-LCD
 	url = https://github.com/stevenhernandezz/RPI-Pico-Interfacing-LCD
+[submodule "RPI-Pico-SSD"]
+	path = RPI-Pico-SSD
+	url = https://github.com/stevenhernandezz/RPI-Pico-SSD
