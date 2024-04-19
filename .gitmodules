@@ -1,3 +1,6 @@
 [submodule "RPI-Pico-Getting-Started"]
 	path = RPI-Pico-Getting-Started
 	url = https://github.com/stevenhernandezz/RPI-Pico-Getting-Started
+[submodule "RPI-Pico-Interfacing-LCD"]
+	path = RPI-Pico-Interfacing-LCD
+	url = https://github.com/stevenhernandezz/RPI-Pico-Interfacing-LCD
