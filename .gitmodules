@@ -1,0 +1,3 @@
+[submodule "RPI-Pico-Getting-Started"]
+	path = RPI-Pico-Getting-Started
+	url = https://github.com/stevenhernandezz/RPI-Pico-Getting-Started
