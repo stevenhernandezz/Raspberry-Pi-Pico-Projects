@@ -10,3 +10,6 @@
 [submodule "RPI-Pico-Interrupt-Simulation"]
 	path = RPI-Pico-Interrupt-Simulation
 	url = https://github.com/stevenhernandezz/RPI-Pico-Interrupt-Simulation
+[submodule "RPI-Pico-I2C"]
+	path = RPI-Pico-I2C
+	url = https://github.com/stevenhernandezz/RPI-Pico-I2C
