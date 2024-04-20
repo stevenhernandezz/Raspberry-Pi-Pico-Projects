@@ -1,4 +1,4 @@
-# RPI-Pico-
+# Raspberry-Pi-Pico-
 A collection of CPP exercises using Raspberry Pi Pico (RP2040) microcontroller board. These exercises can be run on actual Raspberry Pi Pico hardware or simulated online using Wokwi. Wokwi is an online simulator that provides a realistic emulation environment for a variety of microcontroller boards.
 
 ## Projects 
